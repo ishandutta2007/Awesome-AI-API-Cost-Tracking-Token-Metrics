@@ -68,82 +68,82 @@ A comprehensive comparison of top commercial and hosted platforms for tracking L
 
 ## 💻 Open-Source GitHub Projects
 
-All open-source tools are sorted descending by GitHub star popularity. Each project includes a real-time star badge linking to its stargazer community.
+All open-source tools are sorted descending by GitHub star popularity. Each project includes a real-time Stars_Badge linking to its stargazer community.
 
 ### 🚀 Open-Source Standalone Observability & Gateways (Ranked by Stars)
 
-1. **[ollama/ollama](https://github.com/ollama/ollama)** [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) 🦙  
+1. **[ollama/ollama](https://github.com/ollama/ollama)** [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) 🦙  
    Get up and running with Llama, Mistral, Gemma, DeepSeek, and other open-source models locally or on private servers. Eliminates third-party token costs entirely with built-in inference APIs and telemetry hooks.
 
-2. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) ⚡  
+2. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** [![GitHub_Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) ⚡  
    High-throughput, memory-efficient LLM serving engine featuring PagedAttention and native Prometheus metrics exporting input/output token counts, KV cache utilization, and throughput analytics.
 
-3. **[BerriAI/litellm](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers) 🛡️  
+3. **[BerriAI/litellm](https://github.com/BerriAI/litellm)** [![GitHub_Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers) 🛡️  
    The fastest, lightest AI Gateway and Python SDK (`MIT`). Unified OpenAI-compatible proxy across 100+ LLMs with virtual key management, user/team budget caps, rate limiting, and real-time spend attribution across AWS Bedrock, Azure, OpenAI, and Anthropic.
 
-4. **[Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)** [![GitHub stars](https://img.shields.io/github/stars/Calcium-Ion/new-api?style=social&color=white)](https://github.com/Calcium-Ion/new-api/stargazers) 🌐  
+4. **[Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)** [![GitHub_Stars](https://img.shields.io/github/stars/Calcium-Ion/new-api?style=social&color=white)](https://github.com/Calcium-Ion/new-api/stargazers) 🌐  
    Feature-rich self-hosted LLM gateway and API distributor supporting OpenAI, Claude, and Gemini formats with intelligent model routing, granular user token quotas, and comprehensive cost accounting dashboards.
 
-5. **[langfuse/langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers) 🪢  
+5. **[langfuse/langfuse](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers) 🪢  
    Open-source AI engineering and observability platform (`MIT`). Offers automated model pricing tables, hierarchical trace/session cost aggregation, prompt versioning, and OpenTelemetry instrumentation.
 
-6. **[songquanpeng/one-api](https://github.com/songquanpeng/one-api)** [![GitHub stars](https://img.shields.io/github/stars/songquanpeng/one-api?style=social&color=white)](https://github.com/songquanpeng/one-api/stargazers) 🔑  
+6. **[songquanpeng/one-api](https://github.com/songquanpeng/one-api)** [![GitHub_Stars](https://img.shields.io/github/stars/songquanpeng/one-api?style=social&color=white)](https://github.com/songquanpeng/one-api/stargazers) 🔑  
    Popular open-source multi-provider LLM API key aggregation and distribution platform with token quota controls, billing management, user groups, and single-binary Docker deployment.
 
-7. **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers) 🎯  
+7. **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers) 🎯  
    CLI and CI/CD security and quality evaluation tool for LLMs and agents. Benchmarks output quality, vulnerability vectors, latency, and cost-per-prompt tradeoffs across GPT, Claude, Gemini, and DeepSeek.
 
-8. **[comet-ml/opik](https://github.com/comet-ml/opik)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers) 📊  
+8. **[comet-ml/opik](https://github.com/comet-ml/opik)** [![GitHub_Stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers) 📊  
    Production-ready open-source LLM evaluation, tracing, and monitoring platform by Comet. Tracks trace-level token consumption, latency distribution, and cost attribution with built-in dashboards.
 
-9. **[Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)** [![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers) 🚀  
+9. **[Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social&color=white)](https://github.com/Portkey-AI/gateway/stargazers) 🚀  
    Ultra-fast, production-tested AI gateway written in TypeScript (`MIT`). Supports 1,600+ models, 50+ guardrails, automatic fallbacks, semantic caching, and streaming token metrics with under 1ms overhead.
 
-10. **[tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)** [![GitHub stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social&color=white)](https://github.com/tensorzero/tensorzero/stargazers) 🦀  
+10. **[tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)** [![GitHub_Stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social&color=white)](https://github.com/tensorzero/tensorzero/stargazers) 🦀  
     Industrial-grade LLM gateway and observability engine built in Rust (`Apache-2.0`). Employs ClickHouse for real-time token tracking, dynamic model optimization, fallback routing, and A/B evaluations.
 
-11. **[maximhq/bifrost](https://github.com/maximhq/bifrost)** [![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social&color=white)](https://github.com/maximhq/bifrost/stargazers) 🌈  
+11. **[maximhq/bifrost](https://github.com/maximhq/bifrost)** [![GitHub_Stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social&color=white)](https://github.com/maximhq/bifrost/stargazers) 🌈  
     High-throughput Go-based AI gateway adding under 200µs of overhead at 5k RPS. Provides virtual keys, budget enforcement, load balancing, semantic caching, and OpenTelemetry token telemetry.
 
-12. **[traceloop/openllmetry](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers) 📡  
+12. **[traceloop/openllmetry](https://github.com/traceloop/openllmetry)** [![GitHub_Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers) 📡  
     OpenTelemetry instrumentation SDK (`Apache-2.0`) for LLM frameworks (LangChain, LlamaIndex, OpenAI). Standardizes token metrics (`gen_ai.usage.input_tokens`, `output_tokens`) for Prometheus, Grafana, and Datadog.
 
-13. **[Helicone/helicone](https://github.com/Helicone/helicone)** [![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers) 🧊  
+13. **[Helicone/helicone](https://github.com/Helicone/helicone)** [![GitHub_Stars](https://img.shields.io/github/stars/Helicone/helicone?style=social&color=white)](https://github.com/Helicone/helicone/stargazers) 🧊  
     Open-source AI gateway and observability proxy (`Apache-2.0`). Enables self-hosted request logging, user-level token and cost metrics, semantic prompt caching, and custom alert webhooks.
 
-14. **[openlit/openlit](https://github.com/openlit/openlit)** [![GitHub stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers) 📉  
+14. **[openlit/openlit](https://github.com/openlit/openlit)** [![GitHub_Stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers) 📉  
     Zero-code OpenTelemetry-native GenAI & LLM observability and FinOps platform (`Apache-2.0`). Monitors prompt/completion tokens, GPU hardware metrics, and calculates real-time USD costs across providers.
 
-15. **[bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM)** [![GitHub stars](https://img.shields.io/github/stars/bricks-cloud/BricksLLM?style=social&color=white)](https://github.com/bricks-cloud/BricksLLM/stargazers) 🧱  
+15. **[bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM)** [![GitHub_Stars](https://img.shields.io/github/stars/bricks-cloud/BricksLLM?style=social&color=white)](https://github.com/bricks-cloud/BricksLLM/stargazers) 🧱  
     Enterprise-grade cloud-native API gateway written in Go that helps DevOps teams monitor and impose hard spending limits, cost rate ceilings, and RBAC policies per API key.
 
 ---
 
 ### 🖥️ Local Coding-Agent Quota & CLI Usage Monitors
 
-1. **[ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)** [![GitHub stars](https://img.shields.io/github/stars/ryoppippi/ccusage?style=social&color=white)](https://github.com/ryoppippi/ccusage/stargazers) ⏱️  
+1. **[ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)** [![GitHub_Stars](https://img.shields.io/github/stars/ryoppippi/ccusage?style=social&color=white)](https://github.com/ryoppippi/ccusage/stargazers) ⏱️  
    High-speed CLI tool (`npx ccusage`) for parsing local Claude Code JSONL logs. Summarizes daily/monthly prompt and completion token usage, cache creation/read savings, and equivalent API spend.
 
-2. **[Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)** [![GitHub stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor?style=social&color=white)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor/stargazers) 🚨  
+2. **[Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)** [![GitHub_Stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor?style=social&color=white)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor/stargazers) 🚨  
    Real-time terminal dashboard tracking Claude Code token burn velocity, session reset countdowns, quota utilization percentages, and proactive limit warnings.
 
-3. **[phuryn/claude-usage](https://github.com/phuryn/claude-usage)** [![GitHub stars](https://img.shields.io/github/stars/phuryn/claude-usage?style=social&color=white)](https://github.com/phuryn/claude-usage/stargazers) 🍏  
+3. **[phuryn/claude-usage](https://github.com/phuryn/claude-usage)** [![GitHub_Stars](https://img.shields.io/github/stars/phuryn/claude-usage?style=social&color=white)](https://github.com/phuryn/claude-usage/stargazers) 🍏  
    Native macOS menu-bar utility and terminal monitor designed to track Claude Code token usage, 5-hour rolling burn rates, weekly subscription limits, and session cost attribution.
 
 ---
 
 ### 🧮 Token Calculators, Caching & Routing Utilities
 
-1. **[openai/tiktoken](https://github.com/openai/tiktoken)** [![GitHub stars](https://img.shields.io/github/stars/openai/tiktoken?style=social&color=white)](https://github.com/openai/tiktoken/stargazers) 🔢  
+1. **[openai/tiktoken](https://github.com/openai/tiktoken)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/tiktoken?style=social&color=white)](https://github.com/openai/tiktoken/stargazers) 🔢  
    Fast open-source BPE tokenizer library from OpenAI (`MIT`). Fundamental building block for pre-flight token counting, context-window budgeting, and estimating prompt pricing.
 
-2. **[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)** [![GitHub stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social&color=white)](https://github.com/zilliztech/GPTCache/stargazers) 🧠  
+2. **[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)** [![GitHub_Stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social&color=white)](https://github.com/zilliztech/GPTCache/stargazers) 🧠  
    Semantic caching library for LLMs (`MIT`). Intercepts semantically identical or similar prompts and serves cached completions to slash API token burn by 30%–80%.
 
-3. **[lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM)** [![GitHub stars](https://img.shields.io/github/stars/lm-sys/RouteLLM?style=social&color=white)](https://github.com/lm-sys/RouteLLM/stargazers) 🔀  
+3. **[lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM)** [![GitHub_Stars](https://img.shields.io/github/stars/lm-sys/RouteLLM?style=social&color=white)](https://github.com/lm-sys/RouteLLM/stargazers) 🔀  
    Open-source model-routing framework developed by LMSYS (`Apache-2.0`). Dynamically directs simple tasks to cheaper SLMs and complex reasoning to flagship LLMs, drastically lowering total inference expenditure.
 
-4. **[AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost)** [![GitHub stars](https://img.shields.io/github/stars/AgentOps-AI/tokencost?style=social&color=white)](https://github.com/AgentOps-AI/tokencost/stargazers) 💵  
+4. **[AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost)** [![GitHub_Stars](https://img.shields.io/github/stars/AgentOps-AI/tokencost?style=social&color=white)](https://github.com/AgentOps-AI/tokencost/stargazers) 💵  
    Lightweight Python library (`MIT`) providing programmatic USD price lookups and token calculations across 400+ commercial and open LLM models.
 
 ---
@@ -187,7 +187,7 @@ Contributions are welcome from AI engineers, FinOps practitioners, and open-sour
 2. 🌿 Create a descriptive feature branch (`git checkout -b add-tool-name`).
 3. 📝 Add or update entries in `README.md` following the existing format:
    - For SaaS: include pricing starting tiers, free-tier limits, company valuation/revenue, and description.
-   - For Open-Source: include repo link, description, and social star badge.
+   - For Open-Source: include repo link, description, and social Stars_Badge.
 4. 🚀 Open a Pull Request with a clear explanation of the tool and verification links.
 
 ---
