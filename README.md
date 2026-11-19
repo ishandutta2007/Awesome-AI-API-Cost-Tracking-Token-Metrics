@@ -42,59 +42,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Helicone](https://helicone.ai)**  
-
-  Proxy-based LLM observability and FinOps platform providing real-time token metering, per-user/property cost attribution, semantic caching, and custom rate-limit alerts.
-
-
-
-- **[Langfuse Cloud](https://langfuse.com)**  
-
-  Managed cloud deployment of the open-source LLM engineering platform offering automated model pricing tables, trace-level token/cost rollups, and session spend analytics.
-
-
-
-- **[Portkey](https://portkey.ai)**  
-
-  Enterprise AI gateway and observability suite featuring virtual API keys, granular budget caps, automatic fallback routing, semantic caching, and real-time cost dashboards.
-
-
-
-- **[Keywords AI](https://keywordsai.co)**  
-
-  Unified LLM gateway and monitoring platform offering a single OpenAI-compatible endpoint with token analytics, latency metrics, user-level spend limits, and caching.
-
-
-
-- **[Cloudflare AI Gateway](https://cloudflare.com)**  
-
-  Managed edge proxy sitting between applications and AI providers to deliver unified request analytics, token/cost estimation, response caching, and rate limiting.
-
-
-
-- **[Datadog LLM Observability](https://datadoghq.com)**  
-
-  Enterprise cloud monitoring solution tracking end-to-end LLM and agent traces, token consumption, operational spend, latency bottlenecks, and drift metrics.
-
-
-
-- **[PromptLayer](https://promptlayer.com)**  
-
-  Prompt management and LLM analytics platform providing request history logging, token-per-template cost breakdowns, latency tracking, and A/B test evaluations.
-
-
-
-- **[Martian](https://withmartian.com)**  
-
-  Model-routing and cost-optimization API platform that dynamically routes prompts to the most cost-effective LLM capable of meeting quality thresholds.
-
-
-
-- **[Arize AX / LangSmith](https://langchain.com)**  
-
-  Enterprise AI engineering and observability platforms offering detailed token accounting, cache-read/write token breakdowns, and project-level cost alerts.
+| Platform | Company Size (Valuation / Revenue) | Pricing (Paid Tiers) | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Cloudflare AI Gateway](https://cloudflare.com)** | **~$68.7B Market Cap** ($2.17B FY25 Revenue) | $0 edge gateway fee on Free/BYOK; Workers Paid starts at **$5/month** (Unified Billing adds 5% credit processing fee) | **Free Forever plan**: Capped at 10 gateways, 100,000 total stored logs across account, 25 MB max cacheable request size, and 200 req/60s rate limit on unified billing. | Managed edge proxy sitting between applications and AI providers to deliver unified request analytics, token/cost estimation, response caching, and rate limiting. |
+| **[Datadog LLM Observability](https://datadoghq.com)** | **~$48.5B Market Cap** ($3.43B FY25 Revenue) | Pro tier starts at **$160/month** (includes 100,000 LLM spans; additional spans billed in blocks) | **Free Forever plan**: 40,000 LLM spans/month with 15-day data retention; also offers a **14-day free trial** with full access to the observability suite. | Enterprise cloud monitoring solution tracking end-to-end LLM and agent traces, token consumption, operational spend, latency bottlenecks, and drift metrics. |
+| **[LangSmith (LangChain)](https://langchain.com)** | **$3.0B Valuation** ($460M raised) | Plus plan starts at **$39/seat/month** (includes 10,000 base traces/month shared; overages at ~$2.50 per 1,000 traces) | **Developer Free Forever plan**: 1 seat, up to 5,000 traces/month, 14-day data retention, 10 dataset rows per dataset. | Enterprise AI engineering and observability platform by LangChain offering trace-level token accounting, run evaluations, prompt playground, and cost tracking. |
+| **[Martian](https://withmartian.com)** | **~$1.3B Valuation** ($30M+ raised) | Usage routing fees starting at **$20 per 5,000 requests** or **$0.05/M tokens routed** on top of underlying model token costs; Enterprise custom contracts | **Case-by-case developer credit allocation**: Requires account signup and dashboard credit provisioning (no permanent self-serve free tier; promotional hackathon/research credits granted). | Model-routing and cost-optimization API platform that dynamically routes prompts to the most cost-effective LLM capable of meeting quality thresholds. |
+| **[Arize AX](https://arize.com)** | **$915M Valuation** (Acquired by Dynatrace for $915M; $131M raised) | AX Pro starts at **$50/month** (50,000 spans/mo, 10 GB ingestion, 30-day retention; overage billing enabled) | **Free Forever plan**: 25,000 trace spans/month, 1 GB storage ingestion/month, 15-day data retention, 1 space, and 10 Signal issues/month. | Enterprise AI observability, evaluation, and tracing platform providing granular token accounting, cache-read/write token metrics, and cost anomaly alerts. |
+| **[Portkey](https://portkey.ai)** | **~$140M Valuation** (Acquired by Palo Alto Networks; $18M+ raised) | Production plan starts at **$49/month** (includes 100,000 recorded logs/month with 30-day retention; overages at $9 per 100k requests) | **Developer Free Forever plan**: 10,000 recorded logs/month, 3-day log retention, 30-day metrics retention; requests beyond 10k continue routing without interruption (unlogged). | Enterprise AI gateway and observability suite featuring virtual API keys, granular budget caps, automatic fallback routing, semantic caching, and real-time cost dashboards. |
+| **[Helicone](https://helicone.ai)** | **$25M Valuation** (Acquired by Mintlify; $5M Seed raised) | Pro plan starts at **$79/month** (+ usage-based overages; includes unlimited seats, 1-month retention); Team tier at $799/month | **Hobby Free Forever plan**: 10,000 requests/month, 1 GB storage, 7-day data retention, 1 seat, 1 organization, and rate limit of 10 logs/minute. | Proxy-based LLM observability and FinOps platform providing real-time token metering, per-user/property cost attribution, semantic caching, and custom rate-limit alerts. |
+| **[PromptLayer](https://promptlayer.com)** | **~$4.8M Funding Raised** (ScOp & Stellation Capital Seed) | Pro plan starts at **$49/month** (unlimited workspaces and playgrounds, 150 MB dataset storage; overage at $0.003/transaction) | **Free Forever plan**: Up to 5 users, 2,500 requests/month, 1 workspace, 250 evaluation executions/month, 10 MB dataset storage, and 10 prompt templates. | Prompt management and LLM analytics platform providing request history logging, token-per-template cost breakdowns, latency tracking, and A/B test evaluations. |
+| **[Keywords AI (Respan)](https://keywordsai.co)** | **Seed-funded** (Y Combinator W24) | Team plan starts at **$199/month** (higher proxy throughput ~8,400 req/min; optional HIPAA add-on at $500/month; overages at $8 per 100k logs) | **Free Forever plan**: $0/month with starter volume of up to 100,000 logs, 30-day log retention, up to 2 team seats, and 10 prompt template versions. | Unified LLM gateway and monitoring platform offering a single OpenAI-compatible endpoint with token analytics, latency metrics, user-level spend limits, and caching. |
 
 
 
